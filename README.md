@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=NJU9ULQUwng
 * More work is needed to improve the robustness of the network, to find methods to verify the robust- ness, and to improve visualization of the network-internal processing steps.
 
 ### Demo
-![alt img](./self_driving_car_gif.gif)<br>
+![alt img](./output.gif)<br>
 
 ### How to Use
 Download Dataset by Sully Chen: [https://drive.google.com/file/d/0B-KJCaaF7elleG1RbzVPZWV4Tlk/view]
